@@ -1,2 +1,3 @@
-# 24-58095-2_WEB_TECHNOLOGIES
+# Lab Task 01
+  - Wednesday; October 7th 2026
 
