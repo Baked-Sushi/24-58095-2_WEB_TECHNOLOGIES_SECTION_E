@@ -4,3 +4,6 @@
 # Lab Task 02
   - Thursday; October 8th 2026
 
+# Lab Task 03
+  - date is unspecified
+
